@@ -14,7 +14,7 @@ A Neovim plugin to cycle through three LaTeX syntax concealment levels: **off**,
 
 ```lua
 {
-  "tu-usuario/vimtex-conceal",
+  "fred73-coding/vimtex-conceal",
   ft = "tex",
   opts = {},   -- optional: you can pass custom conceal levels if you want
 }
